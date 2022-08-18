@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7025924725",
+    "project_id": "intallmentapp02",
+    "storage_bucket": "intallmentapp02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7025924725:android:0844fb89e3f6704971763c",
+        "android_client_info": {
+          "package_name": "com.arshad.flutter_myinstalment_application02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7025924725-ioguvin3r46self36c2bqa8ei2trkhpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHbMK-ZhLe58lpgBK7EXcuS7hUwii-0Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7025924725-ioguvin3r46self36c2bqa8ei2trkhpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
